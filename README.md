@@ -17,4 +17,6 @@ I develop using a variety of languages and technologies. Here are some of the to
   <img src="https://i.pinimg.com/originals/f0/57/5e/f0575ec9bd798e8e8238ce303bade426.gif" />
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vfek9pmlbbx3j0fz5jfo54hh6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vfek9pmlbbx3j0fz5jfo54hh6&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</p>
