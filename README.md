@@ -1,4 +1,6 @@
-![Salam khoya](https://capsule-render.vercel.app/api?text=Salam%20khoya&animation=fadeIn&type=venom&color=gradient&height=200)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Salam%20khoya&animation=fadeIn&type=venom&color=gradient&height=200" />
+</p>
 
 I develop using a variety of languages and technologies. Here are some of the tools I use:
 
@@ -11,6 +13,6 @@ I develop using a variety of languages and technologies. Here are some of the to
 
 ---
 
-
-
-![xd](https://i.pinimg.com/originals/f0/57/5e/f0575ec9bd798e8e8238ce303bade426.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f0/57/5e/f0575ec9bd798e8e8238ce303bade426.gif" />
+</p>
