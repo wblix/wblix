@@ -17,6 +17,10 @@ I develop using a variety of languages and technologies. Here are some of the to
 - **HTML & CSS**: Crafting visually appealing and responsive web pages.
 - **JavaScript**: Bringing web pages to life with dynamic and interactive elements.
 
+
+### Contact me !
+
+- Discord: blixzzz
 ---
 
 <p align="center">
